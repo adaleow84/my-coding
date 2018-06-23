@@ -19,11 +19,7 @@ margin: 10px 10px 10px 10px;
 background-color: #f0f0f5;
 }
 
-.container-fluid {
-    border: 1px solid grey;
-    height: 430px;
-    padding: 20px;
-}
+
 
 .container-headers {
     text-align: center;
