@@ -1,3 +1,38 @@
 h1 {
-    background-color: red;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 50px;
+    background-color: #d1d1e0;
+    border: none;
+    padding: 40px;
+    color: #52527a;
+}
+
+
+#html, #css, #javascript {
+width: 30%;
+border: 3px solid #d1d1e0;
+height: 400px;
+display: inline-block;
+margin: 10px 10px 10px 10px;
+background-color: #f0f0f5;
+}
+
+.container-fluid {
+    border: 1px solid grey;
+    height: 430px;
+    padding: 20px;
+}
+
+.container-headers {
+    text-align: center;
+    text-size: 40px;
+    text-decoration: underline;
+   
+}
+
+.container-texts {
+    text-align: center;
+    font-size: 16px;
 }
